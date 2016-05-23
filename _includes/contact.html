@@ -1,0 +1,20 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center contact-section">
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Kontakt</h2>
+                <p>Marie-Louise Timcke <br> Bla <br>Dortmund<br>
+                  <span style="unicode-bidi:bidi-override;direction:rtl;">moc.edoconruoj@tcatnoc</span>
+</p>
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}">
+                          <i class="fa fa-{{ network.title }} fa-2x"></i>
+                    </li>
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </div>
+    </section>
