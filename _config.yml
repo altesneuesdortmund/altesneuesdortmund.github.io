@@ -20,7 +20,7 @@ footer: "Journocode"
 people:
 - name: Marie-Louise Timcke
   pic: 1
-  position: Alles
+  position:
   social:
     - title: twitter
       url: http://www.twitter.com/datentaeterin
@@ -31,7 +31,7 @@ people:
 
 - name: Sakander Zirai
   pic: 2
-  position: Alles
+  position:
   social:
     - title: twitter
       url: http://www.twitter.com/suioni
