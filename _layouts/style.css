@@ -1,3 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/grayscale.css %}
+{% include css/tooltipster.bundle.min.css %}
+{% include css/tooltipster-sideTip-punk.min.css %}
+{% include css/frachter.css %}
 {{ content }}

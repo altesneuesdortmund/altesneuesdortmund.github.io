@@ -1,8 +1,8 @@
 # Site settings
-title: "Altes, neues Dortmund"
+title: "Dreckiges Gold"
 email: marie.timcke@journocode.com
-url: http://www.pflichtlektuere.com/campuslauf
-description: "Bla Bla Bla"
+url: http://www.journocode.com/muell
+description: "One man's trash is another man's treasure"
 
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -28,14 +28,3 @@ people:
       url: https://github.com/marielouiese
     - title: globe
       url: http://datentaeter.de/
-
-- name: Sakander Zirai
-  pic: 2
-  position:
-  social:
-    - title: twitter
-      url: http://www.twitter.com/suioni
-    - title: github
-      url: https://github.com/suioni
-  #  - title: globe
-  #    url: #

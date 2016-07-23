@@ -164,7 +164,8 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 30px;
+    color: #fbbb00;
 }
 
 .intro .intro-body .intro-text {
@@ -266,7 +267,6 @@ a:focus {
 
 .about-section {
     width: 100%;
-    #padding: 50px 0;
     color: #7e7e7e;
     #background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #dddddd;
@@ -276,11 +276,16 @@ a:focus {
     -o-background-size: cover;
 }
 
+.frachter-section {
+    width: 100%;
+    color: #7e7e7e;
+}
+
 .download-section {
     width: 100%;
     #padding: 50px 0;
     color: #fff;
-  #  background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
+    #background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #fab1b1;
     -webkit-background-size: cover;
     -moz-background-size: cover;
