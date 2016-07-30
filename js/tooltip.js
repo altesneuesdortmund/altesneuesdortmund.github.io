@@ -8,16 +8,18 @@ $(document).ready(function() {
     contentAsHTML: true,
     touchDevices: true,
     interactive: true,
-    trigger: 'hover'
-    //   trigger: 'custom',
-    // triggerOpen: {
-      //   click: true,
-      //   touchstart: true
-      //   },
-      //  triggerClose: {
-      //   click: true,
-      //   scroll: false,
-      //   tap: true
-      //   }
+      // trigger: 'hover'
+    trigger: 'custom',
+     triggerOpen: {
+         click: true,
+         touchstart: true,
+         mouseenter: true
+         },
+        triggerClose: {
+         click: true,
+         scroll: false,
+         tap: true,
+         mouseleave: true
+         }
 });
 });
