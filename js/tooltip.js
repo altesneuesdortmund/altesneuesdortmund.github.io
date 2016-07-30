@@ -12,7 +12,7 @@ $(document).ready(function() {
     trigger: 'custom',
      triggerOpen: {
          click: true,
-         touchstart: true,
+         tap: true,
          mouseenter: true
          },
         triggerClose: {
